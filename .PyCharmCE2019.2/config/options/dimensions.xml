@@ -1,0 +1,8 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="686" y="338" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="210" />
+    <location key="search.everywhere.popup.0.0.1366.768" x="346" y="89" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="41" />
+  </component>
+</application>

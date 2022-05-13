@@ -1,0 +1,23 @@
+00:00:00.545658 VirtualBox GUI VM Selector Window 6.1.8 r137981 win.amd64 (May 14 2020 20:30:31) release log
+00:00:00.545662 Log opened 2020-05-25T00:21:19.818713300Z
+00:00:00.545663 Build Type: release
+00:00:00.545673 OS Product: Windows 10
+00:00:00.545676 OS Release: 10.0.18363
+00:00:00.545677 OS Service Pack: 
+00:00:00.567514 DMI Product Name: HP Notebook
+00:00:00.573056 DMI Product Version: Type1ProductConfigId
+00:00:00.573101 Firmware type: UEFI
+00:00:00.573456 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.573495 Host RAM: 3987MB (3.8GB) total, 1575MB available
+00:00:00.573502 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.573503 Process ID: 9168
+00:00:00.573504 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.573685 Qt version: 5.6.2
+00:00:00.588375 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.429208 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:28:54.543929 GUI: UIMediumEnumerator: Medium with key={{8b9dc5cc-6e76-402e-a2dd-abdb1b28e976}} created
+00:28:55.775418 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:13.370152 GUI: UIMediumEnumerator: Medium with key={{fd55ea05-0aa3-430e-83d0-28be39d6eba2}} created
+00:31:13.618854 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:44.721920 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:44.960897 GUI: UIMediumEnumerator: Medium-enumeration finished!

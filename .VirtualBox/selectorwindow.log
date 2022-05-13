@@ -1,0 +1,18 @@
+00:00:02.037917 VirtualBox GUI VM Selector Window 6.1.8 r137981 win.amd64 (May 14 2020 20:30:31) release log
+00:00:02.037921 Log opened 2021-01-08T06:54:05.219499400Z
+00:00:02.037922 Build Type: release
+00:00:02.037932 OS Product: Windows 10
+00:00:02.037934 OS Release: 10.0.19042
+00:00:02.037935 OS Service Pack: 
+00:00:02.057760 DMI Product Name: HP Notebook
+00:00:02.063054 DMI Product Version: Type1ProductConfigId
+00:00:02.063082 Firmware type: UEFI
+00:00:02.063413 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:02.063448 Host RAM: 12179MB (11.8GB) total, 9217MB (9.0GB) available
+00:00:02.063455 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:02.063456 Process ID: 1412
+00:00:02.063457 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.063657 Qt version: 5.6.2
+00:00:02.121499 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.373646 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:51.575503 GUI: UIMediumEnumerator: Medium-enumeration finished!

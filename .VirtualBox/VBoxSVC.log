@@ -1,0 +1,81 @@
+00:00:00.038058 main     VirtualBox COM Server 6.1.8 r137981 win.amd64 (May 14 2020 20:30:31) release log
+00:00:00.038061 main     Log opened 2021-01-08T06:54:03.719551600Z
+00:00:00.038062 main     Build Type: release
+00:00:00.038074 main     OS Product: Windows 10
+00:00:00.038075 main     OS Release: 10.0.19042
+00:00:00.038076 main     OS Service Pack: 
+00:00:00.131724 main     DMI Product Name: HP Notebook
+00:00:00.150382 main     DMI Product Version: Type1ProductConfigId
+00:00:00.150402 main     Firmware type: UEFI
+00:00:00.150870 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.150909 main     Host RAM: 12179MB (11.8GB) total, 9233MB (9.0GB) available
+00:00:00.150916 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.150917 main     Process ID: 7252
+00:00:00.150918 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.405615          VirtualBox: object creation starts
+00:00:00.427786          Home directory: 'C:\Users\Prof. Ubangha\.VirtualBox'
+00:00:00.428420          Installed Drivers:
+00:00:00.482768            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.8.37981)
+00:00:00.570226          Loading settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.677262          USBLibInit: USB Service not found
+00:00:00.855885          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.920196          HostDnsMonitor: initializing
+00:00:00.943709          HostDnsMonitor: updating information
+00:00:00.943713          HostDnsMonitor: unchanged
+00:00:01.125673          VD: VDInit finished with VINF_SUCCESS
+00:00:01.300499          Loading settings file "C:\Users\Prof. Ubangha\VirtualBox VMs\kali\kali.vbox" with version "1.16-windows"
+00:00:01.383819          VirtualBox: object created
+00:00:02.864921          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:03.295305          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:03.296705          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:15.727480          Launched VM: 62263408 pid: 5772 (0x168c) frontend: GUI/Qt name: kali
+00:00:16.118576          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:16.120142          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:25.320098          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:25.321626          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:26.323670          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:26.326815          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:26.327762          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:26.382117          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:26.383688          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:26.873459          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:27.316058          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:42.178493 SVCHelper Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:42.359996 dns-monitor HostDnsMonitor: updating information
+00:00:42.360024 dns-monitor HostDnsMonitor: unchanged
+00:00:42.474982 SVCHelper Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:42.596979 SVCHelper Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:42.662908 SVCHelper Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:42.718398 SVCHelper Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.008102          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.054744          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.124414          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.178215          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.232439          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.287968          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:46.433377          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:47.011223          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:47.012867          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:47.189026          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:47.907585 dns-monitor HostDnsMonitor: updating information
+00:00:47.907612 dns-monitor HostDnsMonitor: unchanged
+00:00:49.533159          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:00:49.534182          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:46.078405          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:46.080109          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:50.218037          Saving settings file "C:\Users\Prof. Ubangha\VirtualBox VMs\kali\kali.vbox" with version "1.16-windows"
+00:01:50.397175          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:50.398647          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:50.931689          Saving settings file "C:\Users\Prof. Ubangha\VirtualBox VMs\kali\kali.vbox" with version "1.16-windows"
+00:01:51.081233          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:51.082253          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:51.283940          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:01:51.284956          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:02:06.576368          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:06.695819          Saving settings file "C:\Users\Prof. Ubangha\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:12.278092 main     VirtualBox: object deletion starts
+00:02:12.278223 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Prof. Ubangha\VirtualBox VMs\kali\kali.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:02:12.280364 main     HostDnsMonitor: shutting down ...
+00:02:12.280534 main     HostDnsMonitor: shut down
+00:02:12.282744 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:02:12.283122 main     VirtualBox: object deleted

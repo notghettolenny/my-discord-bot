@@ -1,0 +1,44 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+        <option value="$USER_HOME$/PycharmProjects/crack" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/PycharmProjects/untitled" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/crack">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.7142.56" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1588725613323" />
+              <option name="buildTimestamp" value="1574165555043" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-192.7142.56" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1588725726022" />
+              <option name="buildTimestamp" value="1574165555043" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>
